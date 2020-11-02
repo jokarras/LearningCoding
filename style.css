@@ -1,0 +1,31 @@
+body {
+    background-color:tomato;
+}
+
+h1 {
+color: orange;
+background-color: navy;
+text-align: center;
+font-family: Verdana;
+
+}
+
+p{
+    color: purple;
+}
+
+#li1 {color: orange;}
+#li2 {color: aqua;}
+#li3 {color: silver;}
+
+span {  
+    color: green;
+}
+
+#p1, a {
+    background-color: grey;
+    
+}
+
+
+
